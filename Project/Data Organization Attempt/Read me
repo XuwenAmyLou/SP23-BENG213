@@ -1,0 +1,3 @@
+The pipeline for processing the raw data file from the website can be found in the folder with A543 cell lines
+simply replace the drug list with the drugs that your cell line was tested with
+it will output up and down regulation matrix
